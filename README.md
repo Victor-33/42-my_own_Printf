@@ -2,6 +2,7 @@
 <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt="Printf">
 This project is originally from 42 École and the development was created following their rules. Recreates the original 'Printf' function.
 
+
 * **The mandatory part requires the use of the following formats specifiers** - `cspdiuxX%`
 
 -character (%c) type input variable;
