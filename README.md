@@ -5,10 +5,15 @@ This project is originally from 42 École and the development was created follow
 * **The mandatory part requires the use of the following formats specifiers** - `cspdiuxX%`
 
 -character (%c) type input variable;
+
 -string (%s) type input variable;
+
 -**pointer** (`%p`) type input variable.
+
 -**int** (`%i` and `%d`) and **unsigned int** (`%u`)type input variables;
+
 -**lower** (`%x`) and **upper hexadecimal** (`%X`) type input variables;
+
 -percent (%%) character.
 
 ### Instructions
